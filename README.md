@@ -31,7 +31,7 @@ Click :point_up_2: to download the App!
 
 
 
-# What Sustainable Development Goals are we aiming for?
+# Targeted UN Sustainable Goals
 
 <img src="https://i.postimg.cc/660rxncn/goal-01-480.png" width="200px"> <img src="https://i.postimg.cc/gJsMn5VH/goal-02-480.png" width="200px">
 <img src="https://i.postimg.cc/KY0by91C/goal-11-480.png" width="200px"> <img src="https://i.postimg.cc/CLCLQs4p/goal-12-480.png" width="200px">
