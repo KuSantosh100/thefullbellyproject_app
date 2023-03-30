@@ -28,7 +28,22 @@ samples, guidance on mobile development, and a full API reference.
 
 Click :point_up_2: to download the App!
 
+# Running Instructions
+In order to get started contributing/building the flutter project, follow these steps:
+- Get Flutter (development version: 3.7.7).  
+- Clone this Repository
 
+  ```
+  git clone https://github.com/LemonDrop847/thefullbellyproject_app
+  ```
+
+- Get packages
+
+  ```
+  flutter pub get
+  ```
+
+- Build and run main.dart.
 
 
 # Targeted UN Sustainable Goals
