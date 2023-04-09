@@ -8,7 +8,7 @@ The Full Belly Project is an APP dedicated to decreasing food wastage and tackli
 
 
 # Demo
-Click [HERE](https://youtu.be/wKz6-HVQbGM) to check it out!
+Click [HERE](https://youtu.be/CYbRiCx9EQY) to check it out!
 
 # Getting Started
 
@@ -24,7 +24,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Download APK
-[DOWNLOAD LINK](https://drive.google.com/file/d/14uVbA9ZU532V0Ffgs93NcFph0FuF79a4/view?usp=share_link)
+[DOWNLOAD LINK](https://drive.google.com/file/d/1jsBfZSw9rSznG2Xz_-mJVXq6r-90F5uk/view?usp=share_link)
 
 Click :point_up_2: to download the App!
 
